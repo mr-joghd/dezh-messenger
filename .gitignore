@@ -1,0 +1,39 @@
+*.iml
+.gradle
+.kotlin
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.env
+
+# 🔐 Keystores & signing keys — NEVER commit these
+*.keystore
+*.jks
+release.keystore
+debug.keystore
+my-upload-key.jks
+key.properties
+keystore.properties
+
+# Build outputs
+app/release/
+app/debug/
+
+# Gradle cache
+.gradle/configuration-cache/
+
+# IDE extras
+/.idea/deploymentTargetSelector.xml
+/.idea/deviceManager.xml
+/.idea/runConfigurations.xml
+/.idea/planningMode.xml

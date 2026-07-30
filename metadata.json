@@ -1,0 +1,5 @@
+{
+  "name": "Dezh Messenger",
+  "description": "An isolated secure hub and vault for web messengers featuring strict sandboxing, cryptographic account exports, and local privacy.",
+  "requestFramePermissions": []
+}
